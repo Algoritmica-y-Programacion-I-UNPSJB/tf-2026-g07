@@ -4,7 +4,7 @@
 **Interfaz / Modalidad:** Gráfica (SDL3) — Individual  
 
 ## Integrantes y aportes
-- Juan Manuel Fernandez
+- Juan Manuel Fernandez (@juannfernandezz97)
 
 ## Reglas y alcance
 La propuesta consiste en desarrollar Tetris con interfaz gráfica mediante SDL3.
